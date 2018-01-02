@@ -4,6 +4,8 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .social {
@@ -15,5 +17,6 @@ html {
 
 .page {
   background-color: white;
-  max-width: 400px;
+  max-width: 1000px;
+  position: center;
 }
