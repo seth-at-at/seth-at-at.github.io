@@ -12,3 +12,8 @@ html {
   float: right;
   padding: 5px;
 }
+
+.page {
+  background-color: white;
+  max-width: 400px;
+}
